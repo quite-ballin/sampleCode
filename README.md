@@ -1,2 +1,2 @@
 # sampleCode
-Sample code from a PlayCanvas project written by Jake Johnson, 2022
+Sample code from various PlayCanvas projects written by Jake Johnson, 2022
